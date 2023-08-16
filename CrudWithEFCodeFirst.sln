@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudWithwebapiCodeFirst", "CrudWithEFCodeFirst\CrudWithwebapiCodeFirst.csproj", "{7A37D40D-8451-4A2D-895E-E04B5F9E360C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "practicecodefirstweb", "practicecodefirstweb\practicecodefirstweb.csproj", "{38D82442-96BF-4326-8492-CF29E532F00B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "crudEFDBfirst", "crudEFDBfirst\crudEFDBfirst.csproj", "{63E741BB-87F5-4EB5-B434-6DF8DE5129B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeAPIinMVC", "ConsumeAPIinMVC\ConsumeAPIinMVC.csproj", "{A66C44D8-556A-4B25-BAC8-9FCD5DD6084A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudwithADO", "CrudwithADO\CrudwithADO.csproj", "{8B44073E-5440-4CB0-8BB8-FF2E40227D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeDBfirstEF", "PracticeDBfirstEF\PracticeDBfirstEF.csproj", "{0C668F9B-B75E-4A27-B40C-CD5D422792E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A37D40D-8451-4A2D-895E-E04B5F9E360C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A37D40D-8451-4A2D-895E-E04B5F9E360C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A37D40D-8451-4A2D-895E-E04B5F9E360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A37D40D-8451-4A2D-895E-E04B5F9E360C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D82442-96BF-4326-8492-CF29E532F00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D82442-96BF-4326-8492-CF29E532F00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D82442-96BF-4326-8492-CF29E532F00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D82442-96BF-4326-8492-CF29E532F00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E741BB-87F5-4EB5-B434-6DF8DE5129B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E741BB-87F5-4EB5-B434-6DF8DE5129B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E741BB-87F5-4EB5-B434-6DF8DE5129B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E741BB-87F5-4EB5-B434-6DF8DE5129B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66C44D8-556A-4B25-BAC8-9FCD5DD6084A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66C44D8-556A-4B25-BAC8-9FCD5DD6084A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66C44D8-556A-4B25-BAC8-9FCD5DD6084A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66C44D8-556A-4B25-BAC8-9FCD5DD6084A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B44073E-5440-4CB0-8BB8-FF2E40227D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B44073E-5440-4CB0-8BB8-FF2E40227D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B44073E-5440-4CB0-8BB8-FF2E40227D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B44073E-5440-4CB0-8BB8-FF2E40227D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C668F9B-B75E-4A27-B40C-CD5D422792E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C668F9B-B75E-4A27-B40C-CD5D422792E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C668F9B-B75E-4A27-B40C-CD5D422792E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C668F9B-B75E-4A27-B40C-CD5D422792E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02826256-A195-40F1-B3F1-E636BB8FCE0A}
+	EndGlobalSection
+EndGlobal
